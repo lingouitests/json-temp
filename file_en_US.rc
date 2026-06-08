@@ -65,13 +65,12 @@ END
 // SHARED_ENTRIES
 STRINGTABLE
 BEGIN
-    FILT_TRUE_5    "true"
+    FILT_TRUE_5    "Three"
 END
 // END_SHARED_ENTRIES
 
 // SOURCE_FILE C:/Path/to/my/source/file/FilterPatternOrderTests.js
 STRINGTABLE
 BEGIN
-    FILT_TRUE_4    "true"
-    FILT_DDMMYYY_6    "dd/MM/yyyy"
+    FILT_TRUE_4    "Four"
 END
