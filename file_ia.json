@@ -1,5 +1,0 @@
-{
-  "tree-person.lifespan.full-short": "21657.153085 {case, select, birthAndDeath {[[birthYear]]–[[deathYear]]}  other {{gender, select, MALE {Living} FEMALE {Living} other {Living}} } }",
-  "tree-person.lifespan.full-medium": "21657.153086 {case, select, birthAndDeath {[[birthYear]]–[[deathYear]]} birthLiving {[[birthYear]]–{gender, select, MALE {Living} FEMALE {Living} other {Living}}} other {{gender, select, MALE {Living} FEMALE {Living} other {Living}} } }",
-  "tree-person.lifespan.full-lifespan": "21657.153087 {case, select, birthAndDeath {[[birthYear]]–[[deathYear]]} birthLiving {[[birthYear]]–{gender, select, MALE {Living} FEMALE {Living} other {Living}}} birthDeceased {[[birthYear]]–{gender, select, MALE {Deceased} FEMALE {Deceased} other {Deceased}}} deceasedWithYear {{gender, select, MALE {Deceased} FEMALE {Deceased} other {Deceased}}–[[deathYear]]} deceased {{gender, select, MALE {Deceased} FEMALE {Deceased} other {Deceased}}} other {{gender, select, MALE {Living} FEMALE {Living} other {Living}}}}"
-}
